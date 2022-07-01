@@ -1,0 +1,184 @@
+hr{
+	width:100%;
+}
+.topbox{
+		
+		font-size:15px;
+		color: #515050;
+		background-color:white;
+		width:80px;
+		text-align:center;
+		margin-top:1%;
+		float:right;
+		margin-left:1%;
+		height:30px;
+		width: 100px;
+		
+}
+.topbox:hover,
+.topbox:active {
+	color: #fff;
+	background-color: #f94f6d;
+	border-color: #f94f6d;
+}
+.topbox2{
+		
+		font-size:15px;
+		border-color:#c9eee7;
+		background-color:white;
+		width:80px;
+		text-align:center;
+		margin-top:1.5%;
+		height: 40px;
+		width: 70px;
+}
+.topbox2:hover,
+.topbox2:active {
+	color: #fff;
+	background-color: #f94f6d;
+	border-color: #f94f6d;
+}
+.transparentname{
+	margin-right: 40%;
+	opacity:0.6;
+}
+.large{
+	font-size:50px;
+}
+.toplinks{
+	width:100%;
+}
+.toplinks > ul li{
+	
+	display:inline-block;
+	padding: 0px 2.7%;
+		
+}
+.toplinks  a{
+	text-decoration:none;
+	color:black;
+	opacity:0.7;
+
+}
+
+.toplinks > ul{
+	width:100%;
+	padding:0px;
+
+}
+.titleblog{
+	color:white;
+	background-color:#515050;
+	font-size:20px;
+	padding:25px 25px
+}
+.titleblog a{
+	color:white;
+	text-decoration:none;
+	font-size:20px;
+
+}
+.titlecotent{
+	font-size:60px;
+	font-style:italic;
+}
+.split{
+	height:100%;
+	width:100%;
+	position:relative;
+	overflow:hidden;
+	top:0;
+	display:inline-block;
+	margin:0;
+	padding:0;
+	border-color:#eaeaea;
+	border-style:solid;
+	border-radius: 20px;
+	
+
+}
+
+.split a {
+		text-decoration:none;
+		color:blue;
+		font-size:20px
+}
+	
+.world{
+	
+	width:43.5%;
+	left:0;
+	margin:0 2%;
+	padding:0 0 0 10px;
+}
+.world h3{
+	color:blue;
+}
+.design{
+	width:43.5%;
+	right:0;
+	padding:0 0 0 10px;
+	margin: 0 2%;
+}
+.design h3{
+	color:green;
+}
+
+.thum{
+	position:absolute;
+	width:25%;
+	height:100%;
+	color:white;
+	right:0;
+	top:0;
+	background-color:gray;
+	text-align:center;
+	padding:15% 0;
+	font-size:20px
+	
+}
+.topic{
+	width:50%;
+}
+
+.culm{
+	height:100%;
+	width:100%;
+	position:relative;
+	overflow:hidden;
+	top:10%;
+	display:inline-block;
+	margin:5% 0 0 0;
+	padding:0;
+
+}
+.left{
+	width:55%;
+	left:0;
+	margin:0 2%;
+}
+.left a{
+	color:blue;
+}
+.right{
+	width:30%;
+	right:0;
+	margin: 0 4%;
+	float:right;
+}
+.about{
+	background-color:#dfdfdf;
+	padding:3%;
+	
+}
+.endtitle{
+	font-size:30px;
+	font-style:italic;
+}
+.archive {
+	list-style-type:none;
+	
+}
+.archive > li a {
+	color:blue;
+}
